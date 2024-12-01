@@ -24,4 +24,5 @@ list2 = sorted(list2)
 
 a = 0
 
+total_distance(list1, list2)
 similarity_score(list1, list2)
